@@ -1,0 +1,30 @@
+{
+"miasta" : ["A", "B", "C", "D", "E", "F", "G", "H", "I"],
+"drogi" : [
+{
+"miasta" : ["A", "B"],
+"czas_przejazdu" : 2
+},
+{
+"miasta" : ["A", "C"],
+"czas_przejazdu" : 3
+},
+{
+"miasta" : ["A", "D"],
+"czas_pr
+{
+"miasta" : ["B", "F"],
+"czas_przejazdu" : 9
+},
+{
+"miasta" : ["G", "F"],
+"czas_przejazdu" : 9
+},
+{
+"miasta" : ["H", "I"],
+"czas_przejazdu" : 9
+}
+],
+"timeout" : 5,
+"max_czas_przejazdu" : 1
+}

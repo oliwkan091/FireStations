@@ -1,0 +1,122 @@
+{
+"miasta" : ["A", "B", "C", "D", "E", "F", "G", "H", "I"],
+"drogi" : [
+{
+"miasta" : ["A", "B"],
+"czas_przejazdu" : 7
+},
+{
+"miasta" : ["A", "C"],
+"czas_przejazdu" : 40
+},
+{
+"miasta" : ["A", "D"],
+"czas_przejazdu" : 33
+},
+{
+"miasta" : ["A", "E"],
+"czas_przejazdu" : 8
+},
+{
+"miasta" : ["A", "B"],
+"czas_przejazdu" : 24
+},
+{
+"miasta" : ["A", "G"],
+"czas_przejazdu" : 4
+},
+{
+"miasta" : ["A", "H"],
+"czas_przejazdu" : 66
+},
+{
+"miasta" : ["A", "I"],
+"czas_przejazdu" : 3
+},
+{
+"miasta" : ["B", "C"],
+"czas_przejazdu" : 6
+},
+
+{
+"miasta" : ["B", "E"],
+"czas_przejazdu" : 22
+},
+{
+"miasta" : ["B", "F"],
+"czas_przejazdu" : 5
+},
+{
+"miasta" : ["B", "G"],
+"czas_przejazdu" : 7
+},
+{
+"miasta" : ["B", "H"],
+"czas_przejazdu" : 24
+},
+
+{
+"miasta" : ["C", "A"],
+"czas_przejazdu" : 72
+},
+{
+"miasta" : ["C", "B"],
+"czas_przejazdu" : 4
+},
+{
+"miasta" : ["C", "D"],
+"czas_przejazdu" : 36
+},
+{
+"miasta" : ["C", "D"],
+"czas_przejazdu" : 13
+},
+{
+"miasta" : ["C", "E"],
+"czas_przejazdu" : 6
+},
+
+{
+"miasta" : ["C", "G"],
+"czas_przejazdu" : 9
+},
+{
+"miasta" : ["C", "H"],
+"czas_przejazdu" : 16
+},
+{
+"miasta" : ["C", "I"],
+"czas_przejazdu" : 6
+},
+{
+"miasta" : ["D", "A"],
+"czas_przejazdu" : 3
+},
+{
+"miasta" : ["D", "B"],
+"czas_przejazdu" : 34
+},
+{
+"miasta" : ["D", "C"],
+"czas_przejazdu" : 21
+},
+{
+"miasta" : ["D", "F"],
+"czas_przejazdu" : 11
+},
+{
+"miasta" : ["D", "G"],
+"czas_przejazdu" : 5
+},
+{
+"miasta" : ["D", "H"],
+"czas_przejazdu" : 23
+},
+{
+"miasta" : ["D", "I"],
+"czas_przejazdu" : 51
+}
+],
+"timeout" : 5,
+"max_czas_przejazdu" : 10
+}

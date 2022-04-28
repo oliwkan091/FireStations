@@ -1,0 +1,5 @@
+{
+"miasta" : ["A", "B", "C", "D", "E", "F", "G", "H", "I"],
+"timeout" : 5,
+"max_czas_przejazdu" : 10
+}
